@@ -1,22 +1,22 @@
 
-## Hola, soy Joseph! 
+## Hi, I'm Joseph!
 
-🎓 Estudiante de Ingeniería en Software  
+🎓 Software Engineering student  
 📍 Costa Rica  
  
 ---
 
-## 🧠 Actualmente aprendiendo
+## 🧠 Currently learning
 
-- Lógica de programación
-- Estructuras de datos
-- Desarrollo web (HTML, CSS, JavaScript)
+- Programming logic
+- Data structures
+- Web development (HTML, CSS, JavaScript)
 - Python
-- Git y GitHub
+- Git and GitHub
 
 ---
 
-## 🛠️ Herramientas que he usado
+## 🛠️ Tools I have used
 
 - Visual Studio Code
 - Apache NetBeans
@@ -25,14 +25,7 @@
 - GitHub
 ---
 
-## 🎯 Proyectos
+## 🎯 Projects
 
-Iré subiendo mis proyectos conforme mejore 🚀
-
----
-
-## 📫 Contacto
-
-- GitHub: https://github.com/joseph-e-s
-- Correo: josephelizondo0@gmail.com
+I will be uploading my projects as I continue to improve
 
