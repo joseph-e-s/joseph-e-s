@@ -8,6 +8,27 @@
   </sub>
 </p>
 
+---
+
+<h3>🚧 Open source projects</h3>
+<p>Currently working on my first open source project. Stay tuned...</p>
+
+<table>
+  <thead align="center">
+    <tr>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Coming soon -->
+  </tbody>
+</table>
+
+---
 
 ## ⚡ Technologies
 
