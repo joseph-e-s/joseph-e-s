@@ -1,5 +1,5 @@
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1500&pause=999999&color=00FF00&lines=Hi,+I'm+Joseph!" />
+<p align="center">
+  <img src="banner.png" width="100%" />
 </p>
 
 <p align="left">
