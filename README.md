@@ -1,16 +1,44 @@
-## Hi there 👋
 
-<!--
-**joseph-e-s/joseph-e-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hola, soy Joseph! 
 
-Here are some ideas to get you started:
+🎓 Estudiante de Ingeniería en Software  
+📍 Costa Rica  
+ 
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Actualmente aprendiendo
+
+- Lógica de programación
+- Estructuras de datos
+- Desarrollo web (HTML, CSS, JavaScript)
+- Python
+- Git y GitHub
+
+---
+
+## 🛠️ Herramientas que he usado
+
+- Visual Studio Code
+- Apache NetBeans
+- IntelliJ IDEA
+- Git
+- GitHub
+---
+
+## 🎯 Proyectos
+
+Iré subiendo mis proyectos conforme mejore 🚀
+
+---
+
+## 📫 Contacto
+
+- GitHub: https://github.com/joseph-e-s
+- Correo: josephelizondo0@gmail.com
+---
+
+## 📊 Estadísticas
+
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joseph-e-s&show_icons=true)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joseph-e-s&layout=compact)
