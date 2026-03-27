@@ -18,9 +18,7 @@
 - Visual Studio Code
 - Apache NetBeans
 - IntelliJ IDEA
-- Git
-- GitHub
-- 
+ 
 ---
 
 ## 🧿 Statistics
