@@ -1,9 +1,6 @@
 
 ## Hi, I'm Joseph!
 
-🎓 Software Engineering student  
-📍 Costa Rica  
- 
 ---
 
 ## 🧠 Currently learning
@@ -23,12 +20,7 @@
 - IntelliJ IDEA
 - Git
 - GitHub
----
-
-## 🎯 Projects
-
-I will be uploading my projects as I continue to improve
-
+- 
 ---
 
 ## 🧿 Statistics
