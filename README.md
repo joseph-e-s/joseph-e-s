@@ -33,11 +33,15 @@
 ## ⚡I Learning Technologies how:
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![HTML5](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
+![IA](https://img.shields.io/badge/-IA-black?style=flat-square&logo=artificial-intelligence)
+![C / C++](https://img.shields.io/badge/-C%20%2F%20C++-black?style=flat-square&logo=c)
 
 ---
 
@@ -48,7 +52,7 @@
   <br>
   <img src="https://skillicons.dev/icons?i=idea" width="20"/> IntelliJ IDEA  
   <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="20"/> Apache NetBeans  
+  <img src="https://static.cdnlogo.com/logos/c/23/cursor.svg" width="20"/> Cursor  
 </p>
  
 ---
